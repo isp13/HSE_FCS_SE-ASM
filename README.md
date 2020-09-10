@@ -47,5 +47,5 @@
 ресурс]. – Официальный сайт FASM. Режим доступа:
 http://flatassembler.net/docs.php?article=manual
 
-2 Vitali Kremez. FASM: Flat Assembler, also known as "FASM": Sample Code. [Электронный
+2. Vitali Kremez. FASM: Flat Assembler, also known as "FASM": Sample Code. [Электронный
 ресурс] Режим доступа: https://vk-intel.org/2017/04/03/fasm-flat-assembler-also-known-as-fasm-sample-code/
