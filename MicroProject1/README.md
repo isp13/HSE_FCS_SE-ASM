@@ -13,8 +13,8 @@
 ## Программа
 Отработка программы на нормальном вводе. Вводятся 2 комплексных числа. Выводится результат 4 операций (+ - / *) над ними.
 - **Результат работы**</br>
-  ![](Examples/input1.PNG)
-  ![](Examples/input2.PNG)
+  ![](/Examples/input1.PNG)
+  ![](/Examples/input2.PNG)
   ![](Examples/input4.PNG)
   ![](Examples/input3.PNG)
  
