@@ -30,13 +30,13 @@
 Выходные данные представляют собой вывод в консоль состояния библиотеки (ее рядов) ДО и ПОСЛЕ. 
 Выводится номер ряда, а дальше с новой строки выводятся шкафы с номерными обозначениями книг внутри.
 - **Результат работы**</br>
-  ![](https://github.com/isp13/HSE_FCS_SE-FASM/blob/master/DZ3/res1.png)
+![](https://github.com/isp13/HSE_FCS_SE-FASM/blob/master/DZ3/res1.png)
 
  
 ### Отработка программы на некорректном/ нестандартном вводе
 - **Результат работы**</br>
   отрицательные данные</br>
-  ![](https://github.com/isp13/HSE_FCS_SE-FASM/blob/master/DZ3/res2.png)</br>
+![](https://github.com/isp13/HSE_FCS_SE-FASM/blob/master/DZ3/res2.png)</br>
 
   
 
