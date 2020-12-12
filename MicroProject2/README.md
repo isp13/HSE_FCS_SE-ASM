@@ -11,14 +11,14 @@
 ## Программа
 Отработка программы на нормальном вводе. Вводятся 1 число - кол-во событий генерации не политой грядки. Выводится результат в виде комментирования действий всех трех потоков.
 - **Результат работы**</br>
-  ![](https://github.com/isp13/HSE_FCS_SE-FASM/blob/master/MicroProject2/Examples/res1.jpg)
-  ![](https://github.com/isp13/HSE_FCS_SE-FASM/blob/master/MicroProject2/Examples/res2.jpg)
+  ![](https://github.com/isp13/HSE_FCS_SE-FASM/blob/master/MicroProject2/Examples/res1.PNG)
+  ![](https://github.com/isp13/HSE_FCS_SE-FASM/blob/master/MicroProject2/Examples/res2.PNG)
  
 
 ### Отработка программы на некорректном/ нестандартном вводе
 - **Результат работы**</br>
   ввод отрицательного значения</br>
-![](https://github.com/isp13/HSE_FCS_SE-FASM/blob/master/MicroProject2/Examples/res3.jpg)
+![](https://github.com/isp13/HSE_FCS_SE-FASM/blob/master/MicroProject2/Examples/res3.PNG)
 
 
 ## Использованная литература/ интернет источники
